@@ -1,0 +1,19 @@
+/* Import font  */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Bricolage+Grotesque:opsz@10..48&family=Inconsolata&family=Noto+Sans:wght@600&family=Open+Sans&family=Roboto:wght@500&display=swap');
+/* CSS reset  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+/* Properties  */
+:root {
+     --font-family-primary: 'Roboto', sans-serif;
+     --font-family-secondary: 'Bricolage Grotesque', sans-serif;;
+     --color-primary: white;
+     --color-secondary: #090c31;
+     --color-third: #5853ff;
+     --color-fourth: rgb(44,44,44);
+}
